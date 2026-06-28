@@ -3,6 +3,7 @@
 import requests
 import pandas as pd
 from datetime import date
+import os
 
 LATITUDE = 37.85
 LONGITUDE = -119.52
